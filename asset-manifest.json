@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TanzExpress/static/css/main.073c9b0a.css",
+    "main.js": "/TanzExpress/static/js/main.6892e0d0.js",
+    "static/js/787.4c026eef.chunk.js": "/TanzExpress/static/js/787.4c026eef.chunk.js",
+    "index.html": "/TanzExpress/index.html",
+    "main.073c9b0a.css.map": "/TanzExpress/static/css/main.073c9b0a.css.map",
+    "main.6892e0d0.js.map": "/TanzExpress/static/js/main.6892e0d0.js.map",
+    "787.4c026eef.chunk.js.map": "/TanzExpress/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6892e0d0.js"
+  ]
+}
